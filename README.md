@@ -1,9 +1,11 @@
 # Дмитрий Горохов / Dmitriy GOROKHOV
 ### Java Developer
 
-**📍 Локация:** Санкт-Петербург  
-**📧 Контакты:** dgorokhov123@gmail.com | +7 (921) 368-82-08
-**🔗 GitHub:** [github.com/DGorokhov123](https://github.com/DGorokhov123) | **📱 Telegram:** @DGorokhov
+
+- **📍 Локация:** Санкт-Петербург  
+- **📧 Контакты:** dgorokhov123@gmail.com | +7 (921) 368-82-08
+- **🔗 GitHub:** [github.com/DGorokhov123](https://github.com/DGorokhov123) 
+- **📱 Telegram:** @DGorokhov
 
 ---
 
@@ -13,12 +15,12 @@
 ---
 
 ## 🛠️ Стек технологий
-**Backend:** Java, Spring Framework (Boot, MVC, Data JPA, Security), Hibernate, Kafka,
-**Базы данных:** PostgreSQL, MySQL
-**Инструменты:** Maven, Git, GitHub/GitLab, Docker
-**API:** REST, Swagger/OpenAPI, gRPC
-**Принципы:** ООП, SOLID, RESTful API design, Design Patterns, Microservice Patterns
-**Инфраструктура:** Linux (администрирование), сетевое оборудование, развертывание серверов
+- **Backend:** Java, Spring Framework (Boot, MVC, Data JPA, Security), Hibernate, Kafka
+- **Базы данных:** PostgreSQL, MySQL
+- **Инструменты:** Maven, Git, GitHub/GitLab, Docker
+- **API:** REST, Swagger/OpenAPI, gRPC
+- **Принципы:** ООП, SOLID, RESTful API design, Design Patterns, Microservice Patterns
+- **Инфраструктура:** Linux (администрирование), сетевое оборудование, развертывание серверов
 
 ---
 
@@ -58,8 +60,7 @@
 Фундаментальная подготовка: алгоритмы, структуры данных, математическая логика, дискретная математика.
 
 ### **Дополнительное образование**  
-- **Курс "Java-разработчик"** (2025) — современный стек: Spring Boot, Hibernate, Docker, PostgreSQL, REST API.
-- **Самостоятельное изучение:** микросервисная архитектура, Kafka, Redis (в планах).
+- **Курс "Java-разработчик"** (2024-2025) — современный стек: Spring Boot, Hibernate, Docker, PostgreSQL, REST API, Kafka, gRPC
 
 ---
 
